@@ -10,7 +10,7 @@ redirect_from:
 
 _Ph.D. Student in Mechanical Engineering, University of Georgia_  
 
-Welcome to my academic homepage! I am a Ph.D. Ph.D. Candidate in the Mechanical Engineering Department at the University of Georgia. I work as a researcher in the MODEL group lab under the guidance of Dr. Beshoy Morkos. I obtained my master’s degree from Johns Hopkins University in 2023, focusing mainly on AI and medical robotics. I completed my undergraduate studies at Florida Institute of Technology and WuHan Institute of Technology, graduating with Magna Cum Laude honors. I previously worked at the Fraunhofer Intelligent Manufacturing Center at Shanghai Jiao Tong University, where I was mainly responsible for weld seam identification and Industry 4.0 research. He is very interested in the application of control theory and AI in various emerging fields. I am also good at musical instruments and have won several awards in the field of the Chinese bamboo flute.
+Welcome to my academic homepage! I am a Ph.D. Ph.D. Candidate in the Mechanical Engineering Department at the [University of Georgia](https://engineering.uga.edu/schools/ecam/). I work as a researcher in the [MODEL group lab](https://model.uga.edu/) under the guidance of [Dr. Beshoy Morkos](https://engineering.uga.edu/team_member/beshoy-morkos/). I obtained my master’s degree from [Johns Hopkins University](https://me.jhu.edu/) in 2023, focusing mainly on AI and medical robotics. I completed my undergraduate studies at [Florida Institute of Technology](https://www.fit.edu/mechanical-and-civil-engineering/) and WuHan Institute of Technology, graduating with Magna Cum Laude honors. I previously worked at the [Fraunhofer Intelligent Manufacturing Center at Shanghai Jiao Tong University](https://fpcsm.sjtu.edu.cn/), where I was mainly responsible for weld seam identification and Industry 4.0 research. He is very interested in the application of control theory and AI in various emerging fields. I am also good at musical instruments and have won several awards in the field of the Chinese bamboo flute.
 
 
 
@@ -53,9 +53,8 @@ Welcome to my academic homepage! I am a Ph.D. Ph.D. Candidate in the Mechanical 
 
 ### **UGA MODEL Lab – Intelligent Manufacturing, Robotics, and AI** *(2024–Present)*  
 - Developing an LLM-KG hybrid control framework for industrial robots.  
-- Enabling reasoning-driven robot task execution with real-time KG updates.  
-- Integrating RGB-D sensing into navigation and manipulation tasks.  
-- Designing fine-tuning-free robot control and adaptive decision-making pipelines.
+- LLM-based pedestrian obstacle avoidance navigation.
+- Multi-robot collaboration based on LLM.
 
 ### **Tumor Microenvironment Detection – JHU INBT** *(2023)*  
 Worked on multi-modal biomaterial sensing and micro-environment detection systems.
