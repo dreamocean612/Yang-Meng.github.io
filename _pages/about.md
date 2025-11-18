@@ -10,34 +10,20 @@ redirect_from:
 
 _Ph.D. Student in Mechanical Engineering, University of Georgia_  
 
-Welcome to my academic homepage! I am a Ph.D. student in Mechanical Engineering at the **University of Georgia**, working in the **MODEL Lab** on intelligent manufacturing, robotics, and AI-driven automation systems. My research focuses on integrating **Large Language Models (LLMs)**, **knowledge graphs (KGs)**, and **robotic control frameworks** to create more adaptive, efficient, and human-aware intelligent manufacturing systems.
+Welcome to my academic homepage! I am a Ph.D. Ph.D. Candidate in the Mechanical Engineering Department at the University of Georgia. I work as a researcher in the MODEL group lab under the guidance of Dr. Beshoy Morkos. I obtained my master’s degree from Johns Hopkins University in 2023, focusing mainly on AI and medical robotics. I completed my undergraduate studies at Florida Institute of Technology and WuHan Institute of Technology, graduating with Magna Cum Laude honors. I previously worked at the Fraunhofer Intelligent Manufacturing Center at Shanghai Jiao Tong University, where I was mainly responsible for weld seam identification and Industry 4.0 research. He is very interested in the application of control theory and AI in various emerging fields. I am also good at musical instruments and have won several awards in the field of the Chinese bamboo flute.
 
-My current work includes developing LLM-based reasoning modules for robot control, multimodal sensing fusion (RGB-D, IoT, and perception modules), and KG-driven real-time task adaptation in smart-factory environments.
 
----
 
-## Academic Background
-
-- **Ph.D. in Mechanical Engineering**, University of Georgia (2024–Present)  
-  GPA: 3.95/4.0  
-
-- **M.S. in Mechanical Engineering**, Johns Hopkins University (2021–2023)  
-  GPA: 3.81/4.0  
-
-- **B.S. in Mechanical Engineering**, Florida Institute of Technology (2019–2020)  
-  _Graduated Magna Cum Laude_  
-  GPA: 3.78/4.0  
-
-- **B.E. in Energy and Power Engineering**, Wuhan Institute of Technology (2016–2019)
 
 ---
+
 
 ## Research Interests
 
 - Intelligent Manufacturing Systems  
-- Large Language Models (LLMs) for Robotics  
+- Large Language Models for Robotics  
 - Knowledge Graph–Based Robot Control  
-- Human–Robot Interaction (HRI)  
+- Human–Robot Interaction 
 - Multimodal Sensing & IoT Integration  
 - Robotic Navigation & Autonomous Systems  
 
@@ -46,9 +32,20 @@ My current work includes developing LLM-based reasoning modules for robot contro
 ## Selected Publications
 
 **[1]** Yang Meng, Xiaoou Yang, Zuxin Dai, Tan Pan, Beshoy Morkos  
-**LLM and Knowledge Graph–Based Intelligent Control Framework for Smart Manufacturing**  
+**LLM and Knowledge Graph–Based Intelligent Control Framework for Smart Manufacturing (Best Paper)**  
 *ASME IDETC/CIE 2025.*
 
+### Posters & Essays
+
+**[2]** Yang Meng  
+**Collaborative Control of Heterogeneous Robots Based on LLM and Knowledge Graphs**  
+*CIE 2025 Graduate Research Poster Session.*  
+:contentReference[oaicite:2]{index=2}
+
+**[3]** Yang Meng  
+**Looking to the Future: Will Your Best Partner Be a Robot?**  
+*NSF/ASME 2025 Student Design Essay Competition — Graduate Level (Winner).*  
+:contentReference[oaicite:3]{index=3}
 
 ---
 
@@ -65,29 +62,14 @@ Worked on multi-modal biomaterial sensing and micro-environment detection system
 
 ---
 
-## Extended Research Experience
-
-### **Automotive Baja Vehicle Design** *(2019–2020)*  
-- Designed and optimized Baja car suspension and powertrain systems.  
-- Performed ANSYS force analysis and improved vehicle handling performance.
-
-### **Spiral Bevel Gear Fatigue Simulation & Testing** *(2019–2020)*  
-- Conducted fatigue life simulation using ANSYS & nCode.  
-- Built accelerated testing models based on Miner and Locati methods.
-
-### **LLM + Knowledge Graph Manufacturing Framework** *(2024–2025)*  
-- Built LKPI framework combining LLM reasoning and KG knowledge retrieval.  
-- Enabled real-time robot-task adaptation in noisy manufacturing environments.  
-- Applied IoT-driven KG updates to improve factory situational awareness.
-
----
 
 ## Project Experience
 
-- **Robot Anthropomorphism & HRI (UR5 experiments)**  
+
+- **[LLM-driven IoT System (UGA)](https://uga.gaa.im/html/iot_hub)**  
 - **Economical Automated Microscope Design (JHU)**  
-- **MRI-Compatible Pneumatic Needle-Insertion Robot**  
-- **Magnetic Micro-Robot for Locomotion Control**
+- **MRI-Compatible Pneumatic Needle-Insertion Robot (JHU)**  
+- **Magnetic Micro-Robot for Locomotion Control (JHU)**
 
 ---
 
