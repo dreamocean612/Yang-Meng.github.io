@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-# Meng Yang  
+
 _Ph.D. Student in Mechanical Engineering, University of Georgia_  
 
 Welcome to my academic homepage! I am a Ph.D. student in Mechanical Engineering at the **University of Georgia**, working in the **MODEL Lab** on intelligent manufacturing, robotics, and AI-driven automation systems. My research focuses on integrating **Large Language Models (LLMs)**, **knowledge graphs (KGs)**, and **robotic control frameworks** to create more adaptive, efficient, and human-aware intelligent manufacturing systems.
