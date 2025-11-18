@@ -20,11 +20,11 @@ author:
   avatar           : "profile.png"
   name             : "Meng Yang"
   pronouns         :  # 如果以后想写可以改成 "she/her"
-  bio              : "Ph.D. student in Mechanical Engineering at the University of Georgia. Research interests include intelligent manufacturing, robotics, large language models, and knowledge graphs."
+  bio              : "Ph.D. student in Mechanical Engineering at the University of Georgia. Research interests include intelligent manufacturing, robotics, large language models."
   location         : "Athens, Georgia, USA"
   employer         : "University of Georgia"
   uri              :
-  email            : "my2489502273@outlook.com"
+  email            : "ym94910@uga.edu"
 
   # Academic websites（以后有了可以把链接贴上来）
   academia         :
@@ -47,31 +47,8 @@ author:
   stackoverflow    :
 
   # Social media（暂时都留空，需要哪个就填哪个）
-  artstation       :
-  bluesky          :
-  facebook         :
-  flickr           :
-  foursquare       :
-  goodreads        :
-  google_plus      :
-  keybase          :
-  instagram        :
-  lastfm           :
-  linkedin         :
-  mastodon         :
-  medium           :
-  pinterest        :
-  soundcloud       :
-  steam            :
-  telegram         :
-  tumblr           :
-  twitter          :
-  vine             :
-  weibo            :
-  wikipedia        :
-  xing             :
-  youtube          :
-  zhihu            :
+  linkedin         : https://www.linkedin.com/in/yang-meng-0b2535242/
+
 
 # Publication Category - 显示论文类别用的标题
 publication_category:
@@ -125,19 +102,6 @@ bing_site_verification   :
 alexa_site_verification  :
 yandex_site_verification :
 
-# Social Sharing
-twitter:
-  username               : &twitter
-facebook:
-  username               :
-  app_id                 :
-  publisher              :
-og_image                 :
-og_description           :
-social:
-  type                   :
-  name                   :
-  links:                 # e.g. ["https://github.com/dreamocean612"]
 
 # Analytics
 analytics:
