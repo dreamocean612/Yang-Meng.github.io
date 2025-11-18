@@ -50,7 +50,7 @@ Welcome to my academic homepage! I am a Ph.D. Candidate in the Mechanical Engine
 
 ## Research & Lab Experience
 
-### **UGA MODEL Lab – Intelligent Manufacturing, Robotics, and AI** *(2024–Present)*  
+### **Intelligent Manufacturing, Robotics, and AI – UGA MODEL Lab** *(2024–Present)*  
 - Developing an LLM-KG hybrid control framework for industrial robots.  
 - LLM-based pedestrian obstacle avoidance navigation.
 - Multi-robot collaboration based on LLM.
