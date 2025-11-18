@@ -32,7 +32,7 @@ Welcome to my academic homepage! I am a Ph.D. Ph.D. Candidate in the Mechanical 
 ## Selected Publications
 
 **[1]** Yang Meng, Xiaoou Yang, Zuxin Dai, Tan Pan, Beshoy Morkos  
-**LLM and Knowledge Graph–Based Intelligent Control Framework for Smart Manufacturing (Best Paper)**  
+**[LLM and Knowledge Graph–Based Intelligent Control Framework for Smart Manufacturing (Best Paper)](https://asmedigitalcollection.asme.org/IDETC-CIE/proceedings-abstract/IDETC-CIE2025/89206/V02AT02A033/1225821?redirectedFrom=PDF)** 
 *ASME IDETC/CIE 2025.*
 
 ### Posters & Essays
@@ -40,12 +40,12 @@ Welcome to my academic homepage! I am a Ph.D. Ph.D. Candidate in the Mechanical 
 **[2]** Yang Meng  
 **Collaborative Control of Heterogeneous Robots Based on LLM and Knowledge Graphs**  
 *CIE 2025 Graduate Research Poster Session.*  
-:contentReference[oaicite:2]{index=2}
+
 
 **[3]** Yang Meng  
 **Looking to the Future: Will Your Best Partner Be a Robot?**  
 *NSF/ASME 2025 Student Design Essay Competition — Graduate Level (Winner).*  
-:contentReference[oaicite:3]{index=3}
+
 
 ---
 
@@ -65,7 +65,6 @@ Worked on multi-modal biomaterial sensing and micro-environment detection system
 
 ## Project Experience
 
-
 - **[LLM-driven IoT System (UGA)](https://uga.gaa.im/html/iot_hub)**  
 - **Economical Automated Microscope Design (JHU)**  
 - **MRI-Compatible Pneumatic Needle-Insertion Robot (JHU)**  
@@ -76,7 +75,6 @@ Worked on multi-modal biomaterial sensing and micro-environment detection system
 ## Internship Experience
 
 - **Fraunhofer Center for Intelligent Manufacturing**, Shanghai Jiao Tong University  
-- **CCCC Third Harbor Engineering Co., Ltd.**, Myanmar Port Project
 
 ---
 
