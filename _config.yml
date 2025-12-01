@@ -2,10 +2,10 @@
 locale                   : "en-US"
 site_theme               : "default" # Currently available options are "default", "air"
 
-title                    : "Meng Yang | Mechanical Engineering PhD Student"
+title                    : "Meng Yang | Mechanical Engineering Ph.D. Candidate"
 title_separator          : "-"
-name                     : &name "Meng Yang"
-description              : &description "Meng Yang's academic homepage and research portfolio"
+name                     : &name "Yang Meng (孟洋)"
+description              : &description "Yang Meng's academic homepage and research portfolio"
 
 # ！！！这里改成你自己的 GitHub Pages 地址设置
 # 你现在的仓库是 dreamocean612/Yang-Meng.github.io，
@@ -18,9 +18,9 @@ repository               : "dreamocean612/Yang-Meng.github.io"
 author:
   # Biographic information
   avatar           : "E24D902E-A32E-4A7A-B403-9C7B0CBBDA44_1_201_a.jpeg"
-  name             : "Meng Yang"
+  name             : "Yang Meng"
   pronouns         :  # 如果以后想写可以改成 "she/her"
-  bio              : "Ph.D. student in Mechanical Engineering at the University of Georgia. Research interests include intelligent manufacturing, robotics, large language models."
+  bio              : "Ph.D. Candidate in Mechanical Engineering at the University of Georgia. Research interests include intelligent manufacturing, robotics, large language models."
   location         : "Athens, Georgia, USA"
   employer         : "University of Georgia"
   uri              :
