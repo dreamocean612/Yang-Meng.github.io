@@ -1,14 +1,14 @@
 ---
-title: "Paper Title Number 2"
+title: "LLM and Knowledge Graph–Based Intelligent Control Framework for Smart Manufacturing"
 collection: publications
 category: manuscripts
-permalink: /publication/2010-10-01-paper-title-number-2
-excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
-date: 2010-10-01
-venue: 'Journal 1'
-slidesurl: 'https://academicpages.github.io/files/slides2.pdf'
-paperurl: 'https://academicpages.github.io/files/paper2.pdf'
-citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
+permalink: /publication/2025-lkpi-intelligent-control
+excerpt: "Best Paper Award — ASME IDETC/CIE 2025. An LLM–KG hybrid intelligent control framework for industrial robots."
+date: 2025-08-01
+venue: "ASME IDETC/CIE 2025"
+paperurl: ""
+slidesurl: ""
+citation: 'Yang Meng, Xiaoou Yang, Zuxin Dai, Tan Pan, Beshoy Morkos. (2025). "LLM and Knowledge Graph–Based Intelligent Control Framework for Smart Manufacturing." ASME IDETC/CIE 2025 (Best Paper).'
 ---
 
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
+This work proposes an LLM–Knowledge Graph hybrid control framework that enhances spatial–logical reasoning and robot adaptability in dynamic smart manufacturing environments.
