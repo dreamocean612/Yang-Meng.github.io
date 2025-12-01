@@ -34,6 +34,10 @@ Welcome to my academic homepage! I am a Ph.D. Candidate in the Mechanical Engine
 **[LLM and Knowledge Graph–Based Intelligent Control Framework for Smart Manufacturing (Best Paper)](https://asmedigitalcollection.asme.org/IDETC-CIE/proceedings-abstract/IDETC-CIE2025/89206/V02AT02A033/1225821?redirectedFrom=PDF)** 
 *ASME IDETC/CIE 2025.*
 
+**[2]** Yang Meng, Jiajia Xie, Michael Pagana, Aarti Singha, Beshoy Morkos  
+**HerizonGPTNav: An LLM-based Intelligent Obstacle Avoidance Navigation Framework (Under review)**
+*54th SME North American Manufacturing Research Conference (NAMRC 54, 2026)*
+
 ### Posters & Essays
 
 **[2]** Yang Meng  
