@@ -41,11 +41,13 @@ Welcome to my academic homepage! I am a Ph.D. Candidate in the Mechanical Engine
 ### Posters & Essays
 
 **[2]** Yang Meng, Beshoy Morkos 
+
 **Collaborative Control of Heterogeneous Robots Based on LLM and Knowledge Graphs**  
 *CIE 2025 Graduate Research Poster Session.*  
 
 
 **[3]** Yang Meng, Beshoy Morkos 
+
 **Looking to the Future: Will Your Best Partner Be a Robot?**  
 *NSF/ASME 2025 Student Design Essay Competition — Graduate Level (Winner).*  
 
