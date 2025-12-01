@@ -1,13 +1,14 @@
 ---
-title: "Paper Title Number 5, with math $$E=mc^2$$"
+title: "Looking to the Future: Will Your Best Partner Be a Robot?"
 collection: publications
-category: conferences
-permalink: /publication/2024-02-17-paper-title-number-4
-excerpt: 'This paper is about a famous math equation, $$E=mc^2$$'
-date: 2024-02-17
-venue: 'GitHub Journal of Bugs'
-paperurl: 'https://academicpages.github.io/files/paper3.pdf'
-citation: 'Your Name, You. (2024). &quot;Paper Title Number 3.&quot; <i>GitHub Journal of Bugs</i>. 1(3).'
+category: essays
+permalink: /publication/2025-nsf-asme-essay
+excerpt: "NSF/ASME 2025 Student Design Essay Competition — Graduate Level Winner."
+date: 2025-08-20
+venue: "NSF/ASME 2025 Student Design Essay Competition"
+paperurl: ""
+slidesurl: ""
+citation: 'Yang Meng. (2025). "Looking to the Future: Will Your Best Partner Be a Robot?" Winner, NSF/ASME 2025 Student Design Essay Competition.'
 ---
 
-Using [MathJax](https://www.mathjax.org/) in the description is supported - $$E=mc^2$$ - however, the use must be mindful that the default delimiters are `$$...$$` and `\\[...\\]` which differs from the `$...$` that is typically expected.
+Award-winning essay exploring the future of human–robot collaboration and its impact on engineering design and society.
