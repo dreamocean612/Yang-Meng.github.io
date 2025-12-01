@@ -51,6 +51,7 @@ author:
 
 
 # Publication Category - 显示论文类别用的标题
+
 publication_category:
   books:
     title: 'Books'
@@ -58,6 +59,11 @@ publication_category:
     title: 'Journal Articles'
   conferences:
     title: 'Conference Papers'
+  posters:
+    title: 'Posters'
+  essays:
+    title: 'Essays'
+
 
 # Site Settings
 teaser                   :
