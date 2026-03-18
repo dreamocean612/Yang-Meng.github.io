@@ -89,16 +89,18 @@ Worked on multi-modal biomaterial sensing and micro-environment detection system
 
 ## Honors & Awards
 
+- **top 100 student employees (2026)**
 - **NSF/ASME Student Design Essay Competition Winner (2025)**  
 - **ASME CAPPD Best Paper Award (2025)**  
 - **Magna Cum Laude**, Florida Institute of Technology  
-- Multiple academic scholarships from FIT and WIT.
-
+- Multiple **academic scholarships** from FIT and WIT.
+- **Outstanding Youth Award** from WIT 
+- **Outstanding Student Leader** from WIT
 ---
 
 ## Skills
 
-**Software:** SolidWorks, MATLAB, Python, Simulink, ANSYS, ROS, Arduino, JMP  
+**Software:** SolidWorks, MATLAB, Python, Simulink, ANSYS, ROS, ROS2, Arduino, C++  
 **Languages:** Chinese (Native), English (Proficient)
 
 ---
