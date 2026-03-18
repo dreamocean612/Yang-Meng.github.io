@@ -35,8 +35,15 @@ Welcome to my academic homepage! I am a Ph.D. Candidate in the Mechanical Engine
 *ASME IDETC/CIE 2025.*
 
 **[2]** Yang Meng, Jiajia Xie, Michael Pagana, Aarti Singha, Beshoy Morkos  
-**HerizonGPTNav: An LLM-based Intelligent Obstacle Avoidance Navigation Framework (Under review)**
+**HerizonGPTNav: An LLM-based Intelligent Obstacle Avoidance Navigation Framework **
 *54th SME North American Manufacturing Research Conference (NAMRC 54, 2026)*
+
+**[3]** Yang Meng, Xiaoou Yang, John B. Frericks, Jiajia Xie, Tyler Austria, Aarti Singh, Beshoy Morkos  
+**AffordRAG-Factory: A Hierarchical Edge VLM and Knowledge Graph Framework for Ambiguous Multi-Robot Task Execution in Manufacturing (under review)**  
+*ASME IDETC/CIE 2026.*
+
+
+
 
 ### Posters & Essays
 
