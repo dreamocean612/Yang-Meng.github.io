@@ -1,0 +1,14 @@
+---
+title: "AffordRAG-Factory: A Hierarchical Edge VLM and Knowledge Graph Framework for Ambiguous Multi-Robot Task Execution in Manufacturing"
+collection: publications
+category: manuscripts
+permalink: /publication/2026-affordrag-factory
+excerpt: "A hierarchical edge VLM–KG framework for ambiguous instruction understanding and executable multi-robot task execution in manufacturing."
+date: 2026-08-01
+venue: "ASME IDETC/CIE 2026"
+paperurl: ""
+slidesurl: ""
+citation: 'Yang Meng, Xiaoou Yang, John B. Frericks, Jiajia Xie, Tyler Austria, Aarti Singh, Beshoy Morkos. (2026). "AffordRAG-Factory: A Hierarchical Edge VLM and Knowledge Graph Framework for Ambiguous Multi-Robot Task Execution in Manufacturing." ASME IDETC/CIE 2026.'
+---
+
+This work proposes AffordRAG-Factory, a hierarchical embodied multi-robot task execution framework for smart manufacturing under limited edge-side computing resources. By combining small vision-language models with knowledge graph retrieval and constraint reasoning, the framework transforms ambiguous worker instructions into explainable, verifiable, and executable robot commands across heterogeneous robotic platforms.
