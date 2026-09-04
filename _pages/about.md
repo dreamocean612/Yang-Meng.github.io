@@ -32,17 +32,23 @@ Welcome to my academic homepage! I am a Ph.D. Candidate in the Mechanical Engine
 
 **[1]** Yang Meng, Xiaoou Yang, Zuxin Dai, Tan Pan, Beshoy Morkos  
 **[LLM and Knowledge Graph–Based Intelligent Control Framework for Smart Manufacturing (Best Paper)](https://asmedigitalcollection.asme.org/IDETC-CIE/proceedings-abstract/IDETC-CIE2025/89206/V02AT02A033/1225821?redirectedFrom=PDF)** 
-*ASME IDETC/CIE 2025.*
+*ASME IDETC/CIE 2025*
 
 **[2]** Yang Meng, Jiajia Xie, Michael Pagana, Aarti Singha, Beshoy Morkos  
-**HerizonGPTNav: An LLM-based Intelligent Obstacle Avoidance Navigation Framework **
+**HerizonGPTNav: An LLM-based Intelligent Obstacle Avoidance Navigation Framework**
 *54th SME North American Manufacturing Research Conference (NAMRC 54, 2026)*
 
 **[3]** Yang Meng, Xiaoou Yang, John B. Frericks, Jiajia Xie, Tyler Austria, Aarti Singh, Beshoy Morkos  
-**AffordRAG-Factory: A Hierarchical Edge VLM and Knowledge Graph Framework for Ambiguous Multi-Robot Task Execution in Manufacturing (under review)**  
-*ASME IDETC/CIE 2026.*
+**AffordRAG-Factory: A Hierarchical Edge VLM and Knowledge Graph Framework for Ambiguous Multi-Robot Task Execution in Manufacturing**  
+*ASME IDETC/CIE 2026*
 
+**[4]** Shaan Patel, Yang Meng, Xiaoou Yang
+**Adaptive Complexity-Aware Robotic Inspection for Quality Control Using a Local Vision-Language Model and RGB-D Digital Twin Reconstruction**  
+*ASME IDETC/CIE 2026*
 
+**[5]** Jiajia Xie, Yang Chen, Yang Meng, Cody Loren Carroll, David Joy, Varshini Bonagiri, Fnu Aarti, Beshoy Morkos
+**H3M: Structure-Aligned Heterogeneous Motion Modeling for Multi-Agent Trajectory Forecasting**  
+*IEEE DICTA 2026*
 
 
 ### Posters & Essays
